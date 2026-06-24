@@ -106,19 +106,19 @@ Removes a user from the database.
 MySQL Database Setup
 
 1. CREATE DATABASE
-    (images/createdatabase.png)
+    ![Users Screenshot](images/createdatabase.png)
 
 2. Select * from user1
-    (images/1usercreate(s).png)
+    ![Users Screenshot](images/1usercreate(s).png)
 
 3. Select * from user2
-    (images/2usercreate(s).png)
+    ![Users Screenshot](images/2usercreate(s).png)
 
 4. Update user2
-    (images/put2user(s).png)
+    ![Users Screenshot](images/put2user(s).png)
 
 5. delete user2 from studentdb
-    (images/deleteuser2(s).png)
+    ![Users Screenshot](images/deleteuser2(s).png)
 
 Thunder Client Testing
 
